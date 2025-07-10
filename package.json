@@ -1,0 +1,24 @@
+{
+  "name": "todo-app-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farvez/todo-app-cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farvez/todo-app-cicd/issues"
+  },
+  "homepage": "https://github.com/farvez/todo-app-cicd#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
